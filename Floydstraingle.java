@@ -16,7 +16,6 @@ public class Floydstraingle {
         System.out.println("Enter a Number :");
         int n = sc.nextInt();
         traingle(n);
-
-
     }
 }
+
